@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import HomePage from './pages/trinh-home/home'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
       <h1 className="text-3xl font-bold underline">
         Hello world!
       </h1>
+      <HomePage/>
     </>
   )
 }
