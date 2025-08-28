@@ -23,7 +23,7 @@ export default function HomePage() {
 <body className="bg-[#f9a18a] font-serif">
   <div className="relative w-full h-screen overflow-hidden">
     <img
-      src="../../assets/hình/koi1.png"
+      src="../../assets/hình/koi2.png"
       alt="Red Koi fish swimming in water with lilies and round stones illustration on a peach background"
       className="w-full md:w-[1800px] h-auto md:h-[800px] mx-auto object-cover rounded-xl"
     />
