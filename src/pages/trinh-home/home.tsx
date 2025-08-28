@@ -16,8 +16,6 @@ export default function HomePage() {
       <h1 className="text-5xl font-bold leading-tight">Red Koi</h1>
 
       <p className="text-base mt-1 leading-snug max-w-xs">Red Koi ứng dụng quản lý tài chính cá nhân.</p>
-
-
     </div>
   </div>
 }
